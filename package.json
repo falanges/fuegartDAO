@@ -1,5 +1,5 @@
 {
-  "name": "mydao",
+  "name": "fuegartdao",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,12 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@types/dotenv": "^8.2.0",
+    "react-test-renderer": "^17.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
